@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kevinlara775
 - 👀 I’m interested in learning to code so I can decide what to focus on for my career.
-- 🌱 I’m currently learning Python.
+- 🧠 I know Python.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on any projects I may need help with.
-- 📫 How to reach me: kevin.rodriguez7705@gmail.com
+- 📫 How to reach me: kevin.rodriguez7705@gmail.com / kevinlara@skiff.com
 
 <!---
 kevinlara775/kevinlara775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
