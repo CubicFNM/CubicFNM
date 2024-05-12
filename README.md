@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kevinlara775
+- 👋 Hi, I’m Kevin Lara.
 - 👀 I’m interested in learning to code so I can decide what to focus on for my career.
-- 🧠 I know Python.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on any projects I may need help with.
+- 🧠 I know Python and C++.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on any and all projects, I'm eager to learn about all aspects regarding programming.
 - 📫 How to reach me: kevin.rodriguez7705@gmail.com / kevinlara@skiff.com
 
 <!---
